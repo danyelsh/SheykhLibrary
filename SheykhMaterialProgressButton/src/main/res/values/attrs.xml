@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="ProgressButton">
+
+
+<!--        <attr name="min_length" format="integer" />-->
+<!--        <attr name="max_length" format="integer" />-->
+<!--        <attr name="min_value" format="integer" />-->
+<!--        <attr name="max_value" format="integer" />-->
+<!--        <attr name="regex" format="string" />-->
+
+<!--        <attr name="error_text_color" format="color" />-->
+<!--        <attr name="error_text_size" format="integer" />-->
+<!--        <attr name="error_text" format="string" />-->
+<!--        <attr name="multi_error" format="boolean" />-->
+<!--        <attr name="error_text_required" format="string" />-->
+<!--        <attr name="error_text_min_value" format="string" />-->
+<!--        <attr name="error_text_max_value" format="string" />-->
+<!--        <attr name="error_text_min_length" format="string" />-->
+<!--        <attr name="error_text_max_length" format="string" />-->
+<!--        <attr name="error_text_regex" format="string" />-->
+<!--        <attr name="error_text_numeric" format="string" />-->
+<!--        <attr name="error_animation" format="boolean" />-->
+<!--        <attr name="text_color" format="color" />-->
+<!--        <attr name="text_size" format="integer" />-->
+<!--        <attr name="number_separator" format="boolean" />-->
+<!--        <attr name="hint" format="string" />-->
+<!--        <attr name="hint_color" format="color" />-->
+
+<!--        <attr name="type" format="enum">-->
+<!--            <enum name="normal" value="0" />-->
+<!--            <enum name="curved" value="1" />-->
+<!--        </attr>-->
+
+
+<!--        <attr name="text_gravity" format="enum">-->
+<!--            <enum name="AXIS_CLIP" value="8" />-->
+<!--            <enum name="AXIS_PULL_AFTER" value="4" />-->
+<!--            <enum name="AXIS_PULL_BEFORE" value="2" />-->
+<!--            <enum name="AXIS_SPECIFIED" value="1" />-->
+<!--            <enum name="AXIS_X_SHIFT" value="0" />-->
+<!--            <enum name="AXIS_Y_SHIFT" value="4" />-->
+<!--            <enum name="BOTTOM" value="80" />-->
+<!--            <enum name="CENTER" value="17" />-->
+<!--            <enum name="CENTER_HORIZONTAL" value="1" />-->
+<!--            <enum name="CENTER_VERTICAL" value="16" />-->
+<!--            <enum name="CLIP_HORIZONTAL" value="8" />-->
+<!--            <enum name="CLIP_VERTICAL" value="128" />-->
+<!--            <enum name="DISPLAY_CLIP_HORIZONTAL" value="16777216" />-->
+<!--            <enum name="DISPLAY_CLIP_VERTICAL" value="268435456" />-->
+<!--            <enum name="END" value="8388613" />-->
+<!--            <enum name="FILL" value="119" />-->
+<!--            <enum name="FILL_HORIZONTAL" value="7" />-->
+<!--            <enum name="FILL_VERTICAL" value="112" />-->
+<!--            <enum name="HORIZONTAL_GRAVITY_MASK" value="7" />-->
+<!--            <enum name="LEFT" value="3" />-->
+<!--            <enum name="NO_GRAVITY" value="0" />-->
+<!--            <enum name="RELATIVE_HORIZONTAL_GRAVITY_MASK" value="8388615" />-->
+<!--            <enum name="RELATIVE_LAYOUT_DIRECTION" value="8388608" />-->
+<!--            <enum name="RIGHT" value="5" />-->
+<!--            <enum name="START" value="8388611" />-->
+<!--            <enum name="TOP" value="48" />-->
+<!--            <enum name="VERTICAL_GRAVITY_MASK" value="112" />-->
+<!--        </attr>-->
+
+<!--        <attr name="error_text_gravity" format="enum">-->
+<!--            <enum name="AXIS_CLIP" value="8" />-->
+<!--            <enum name="AXIS_PULL_AFTER" value="4" />-->
+<!--            <enum name="AXIS_PULL_BEFORE" value="2" />-->
+<!--            <enum name="AXIS_SPECIFIED" value="1" />-->
+<!--            <enum name="AXIS_X_SHIFT" value="0" />-->
+<!--            <enum name="AXIS_Y_SHIFT" value="4" />-->
+<!--            <enum name="BOTTOM" value="80" />-->
+<!--            <enum name="CENTER" value="17" />-->
+<!--            <enum name="CENTER_HORIZONTAL" value="1" />-->
+<!--            <enum name="CENTER_VERTICAL" value="16" />-->
+<!--            <enum name="CLIP_HORIZONTAL" value="8" />-->
+<!--            <enum name="CLIP_VERTICAL" value="128" />-->
+<!--            <enum name="DISPLAY_CLIP_HORIZONTAL" value="16777216" />-->
+<!--            <enum name="DISPLAY_CLIP_VERTICAL" value="268435456" />-->
+<!--            <enum name="END" value="8388613" />-->
+<!--            <enum name="FILL" value="119" />-->
+<!--            <enum name="FILL_HORIZONTAL" value="7" />-->
+<!--            <enum name="FILL_VERTICAL" value="112" />-->
+<!--            <enum name="HORIZONTAL_GRAVITY_MASK" value="7" />-->
+<!--            <enum name="LEFT" value="3" />-->
+<!--            <enum name="NO_GRAVITY" value="0" />-->
+<!--            <enum name="RELATIVE_HORIZONTAL_GRAVITY_MASK" value="8388615" />-->
+<!--            <enum name="RELATIVE_LAYOUT_DIRECTION" value="8388608" />-->
+<!--            <enum name="RIGHT" value="5" />-->
+<!--            <enum name="START" value="8388611" />-->
+<!--            <enum name="TOP" value="48" />-->
+<!--            <enum name="VERTICAL_GRAVITY_MASK" value="112" />-->
+<!--        </attr>-->
+
+<!--        <attr name="default_regex" format="enum">-->
+<!--            <enum name="nothing" value="-1" />-->
+<!--            <enum name="email" value="0" />-->
+<!--            <enum name="phone" value="1" />-->
+<!--            <enum name="mobile" value="2" />-->
+<!--        </attr>-->
+
+                <attr name="text" format="string"/>
+                <attr name="text_size" format="integer"/>
+                <attr name="background_color" format="color"/>
+                <attr name="background" format="reference"/>
+
+    </declare-styleable>
+
+</resources>

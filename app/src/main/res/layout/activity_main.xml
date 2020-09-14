@@ -6,11 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
-    <ir.danyel.customview_sololearning.ProgressButton
-        android:id="@+id/progressButton"
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:layout_margin="20dp" />
+<ir.danyel.sheykhmaterialprogressbutton.ProgressButton
+    android:id="@+id/progressButton"
+    android:layout_width="match_parent"
+    app:text="asdasd"
+    app:text_size="30"
+    android:layout_margin="10dp"
+    app:background_color="@color/colorPrimaryDark"
+    android:layout_height="wrap_content"/>
 
 </LinearLayout>
